@@ -1,0 +1,46 @@
+baseURL = "https://miguelsimoni.github.io/"
+languageCode = "en-us"
+title = "Rafikah Halim"
+theme = "hugo-initio"
+publishDir = "docs"
+
+[params]
+    name = "Anthony Russel"
+    description = "A mystery person"
+    email = "anthony.russel42@example.com"
+    phone = "+234 23 9873237"
+    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2017
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = false
+    showRecentWorks = false
+    showDownload = false
+    showClients = false
+
+    footerEnableContact = false
+    footerEnableFollowme = false
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 12
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
