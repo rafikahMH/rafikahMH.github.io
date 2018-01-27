@@ -7,6 +7,7 @@
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
 
 	<title>{{ .Title }}</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
 	<link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}">
 
@@ -31,12 +32,12 @@
 <body class="home">
 
 <header id="header">
-	<div id="main">
-        <div id="hero">
-            <h1>{{.Title}}</h1>
-            <p>I design and grow digital products</p>
+        <div id="main">
+            <div id="hero">
+                <h1>{{.Title}}</h1>
+                <p>I design and grow digital products</p>
+            </div>
         </div>
-    </div>
     {{ partial "menu.html" . }}
 
 </header>

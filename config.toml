@@ -35,6 +35,11 @@ publishDir = "docs"
     url = "/post/"
     weight = 12
 
+[[menu.main]]
+    name = "portfolio"
+    url = "/portfolio/"
+    weight = 10
+
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
 
