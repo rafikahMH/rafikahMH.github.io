@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Rafikah Halim</title>
-    <link>https://rafikahmh.github.io/portfolio/</link>
+    <link>https://rafikahmh.github.io/docs/portfolio/</link>
     <description>Recent content in Portfolio on Rafikah Halim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://rafikahmh.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rafikahmh.github.io/docs/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Portfolio</title>
-      <link>https://rafikahmh.github.io/portfolio/cofounder-matching/</link>
+      <link>https://rafikahmh.github.io/docs/portfolio/cofounder-matching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rafikahmh.github.io/portfolio/cofounder-matching/</guid>
+      <guid>https://rafikahmh.github.io/docs/portfolio/cofounder-matching/</guid>
       <description>When I first came to San Francisco, I was itching to work on viable business ideas and build (or break) things.
 A self-taught web developer, a Computer Science student and Swift developer, as well as myself got together to work on something that one of my team mates have been working on for a few months.
 It&amp;rsquo;s a simple problem: finding the right co-founders is often akin to finding needles in a haystack.</description>
@@ -23,10 +23,10 @@ It&amp;rsquo;s a simple problem: finding the right co-founders is often akin to 
     
     <item>
       <title>Portfolio</title>
-      <link>https://rafikahmh.github.io/portfolio/kingfashion/</link>
+      <link>https://rafikahmh.github.io/docs/portfolio/kingfashion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rafikahmh.github.io/portfolio/kingfashion/</guid>
+      <guid>https://rafikahmh.github.io/docs/portfolio/kingfashion/</guid>
       <description>Attended my third hackathon in a row that month with low spirits and high caffeine levels, but lo-and-behold, my team and I managed to clinch the top 5 teams out of over 300 at the API World Hackathon 2016 in San Francisco.
 Kingfashion is a white-label, augmented reality mobile app that gamifies the shopping experience for online consumers.
 This idea came about when we realized how mundane and impersonal the current online shopping experience is.</description>
@@ -34,20 +34,20 @@ This idea came about when we realized how mundane and impersonal the current onl
     
     <item>
       <title>Portfolio</title>
-      <link>https://rafikahmh.github.io/portfolio/max-loyalty/</link>
+      <link>https://rafikahmh.github.io/docs/portfolio/max-loyalty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rafikahmh.github.io/portfolio/max-loyalty/</guid>
+      <guid>https://rafikahmh.github.io/docs/portfolio/max-loyalty/</guid>
       <description>What started off as a school project that I did with a few of my developer friends while we were on our internships in San Francsico turned out to be something that got us $10,000 in funding.
 After four failed attempts in getting our business ideas up and running, we were trying very hard to find an idea that would be beneficial to many and yet is able to spin the money-maker.</description>
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>https://rafikahmh.github.io/portfolio/startups/</link>
+      <link>https://rafikahmh.github.io/docs/portfolio/startups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rafikahmh.github.io/portfolio/startups/</guid>
+      <guid>https://rafikahmh.github.io/docs/portfolio/startups/</guid>
       <description>Being involved as the President of the NUS Entrepreneurship Society in 2016, I was very much engaged within the start-up scene in Singapore, and still is.
 The highlights of the year included:
 Inaugural Internship Fair 
@@ -56,10 +56,10 @@ We successfully liaised with over 20 corporate partners such as Uber, e27 and ma
     
     <item>
       <title>Portfolio</title>
-      <link>https://rafikahmh.github.io/portfolio/stellarloyalty/</link>
+      <link>https://rafikahmh.github.io/docs/portfolio/stellarloyalty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rafikahmh.github.io/portfolio/stellarloyalty/</guid>
+      <guid>https://rafikahmh.github.io/docs/portfolio/stellarloyalty/</guid>
       <description>I spent a year at Stellar Loyalty, an enterprise marketing SaaS start-up that provides brands with modern, cloud software that can engage and build loyalty with their customers.
 I do a range of things from back-end feature development to product designs of mobile and web applications. But, let&amp;rsquo;s talk about mobile for now.
 After hearing a range of feedback from clients and sales team alike, this project started out as a personal learning side-gig.</description>
@@ -67,10 +67,10 @@ After hearing a range of feedback from clients and sales team alike, this projec
     
     <item>
       <title>Portfolio</title>
-      <link>https://rafikahmh.github.io/portfolio/uber/</link>
+      <link>https://rafikahmh.github.io/docs/portfolio/uber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rafikahmh.github.io/portfolio/uber/</guid>
+      <guid>https://rafikahmh.github.io/docs/portfolio/uber/</guid>
       <description>I recently started a 6-months internship in the growth marketing team, specifically managing social advertising spend for Uber&amp;rsquo;s APACx operations.
 As I am writing this in February 2017, it is still early days to share a specific project but all I can say is that my learning curve has been tremendous.
 Being someone who is growth hacking enthusiast (shout out to Josh Fetcher - check out his latest growth hack bible), I love the ability to strategize and execute on these hacks on such a large scale at Uber.</description>
