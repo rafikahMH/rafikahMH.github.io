@@ -12,7 +12,7 @@ publishDir = "docs"
     address = "234 Hidden Pond Road, Ashland City, TN 37015"
     year = 2017
     background = ""
-    favicon = "images/icons8-diamond-50.png"
+    favicon = "images/rh-favicon.png"
     DateForm = "January 2, 2006"
 
     showSubheader = true
