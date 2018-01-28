@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rafikah Halim</title>
+    <link>https://rafikahmh.github.io/post/</link>
+    <description>Recent content in Posts on Rafikah Halim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jan 2018 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rafikahmh.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I built my website</title>
+      <link>https://rafikahmh.github.io/post/how-i-built-my-website/</link>
+      <pubDate>Thu, 18 Jan 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://rafikahmh.github.io/post/how-i-built-my-website/</guid>
+      <description>Having never build a website from scratch, this has been a truly challenging yet rewarding experience from me. I told myself not to go the WordPress or Squarespace paid theme route to push my front-end web development skills, and woah, it&amp;rsquo;s definitely paid off.
+What I built this site on:
+ Hugo Building upon Initio&amp;rsquo;s theme HTML5 Bootstrap CSS3 Jquery Markdown Open Sans typeface Netlify  Hugo is an extremely fast static site generator.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,8 +1,8 @@
-baseURL = "https://rafikahmh.github.io/public"
+baseURL = "https://rafikahmh.github.io/"
 languageCode = "en-us"
 title = "Rafikah Halim"
 theme = "hugo-initio"
-publishDir = "public"
+publishDir = "docs"
 
 [params]
     name = "Anthony Russel"
