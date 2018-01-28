@@ -823,10 +823,11 @@ footer.entry-meta .meta-in {
 */
 }
 #footer a {
-  color: #ccc;
+  color: #000000;
 }
 #footer a:hover {
-  color: #fff;
+  color: #000000;
+text-decoration: underline;
 }
 #footer h3.widget-title {
   font-size: 15px;
