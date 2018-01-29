@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Rafikah Halim"
 theme = "hugo-initio"
 publishDir = "docs"
+relativeURLs = true
 
 [params]
     name = "Anthony Russel"
@@ -25,7 +26,7 @@ publishDir = "docs"
     footerEnableFollowme = false
     footerEnableTextWidget = false
     footerEnableFormWidget = false
-
+    
 [[menu.main]]
     name = "home"
     url = "/"
