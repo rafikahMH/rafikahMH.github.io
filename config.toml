@@ -15,7 +15,7 @@ relativeURLs = true
     background = ""
     favicon = "images/rh-favicon.png"
     DateForm = "January 2, 2006"
-    keywords = ["Rafikah Halim" ,"Product Manager", "Growth Hacker"]
+    keywords = ["Rafikah Halim" ,"Product Manager", "Growth Hacker", "NUS Overseas College Silicon Valley", "National University of Singapore"]
 
     showSubheader = true
     showServices = false
