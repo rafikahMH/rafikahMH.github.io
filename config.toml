@@ -6,8 +6,8 @@ publishDir = "docs"
 relativeURLs = true
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
+    name = "Rafikah Halim"
+    description = "Rafikah Halim: Product + Growth Enthusiast"
     email = "anthony.russel42@example.com"
     phone = "+234 23 9873237"
     address = "234 Hidden Pond Road, Ashland City, TN 37015"
@@ -15,6 +15,7 @@ relativeURLs = true
     background = ""
     favicon = "images/rh-favicon.png"
     DateForm = "January 2, 2006"
+    keywords = ["Rafikah Halim" ,"Product Manager", "Growth Hacker"]
 
     showSubheader = true
     showServices = false
@@ -26,7 +27,7 @@ relativeURLs = true
     footerEnableFollowme = false
     footerEnableTextWidget = false
     footerEnableFormWidget = false
-    
+
 [[menu.main]]
     name = "home"
     url = "/"
